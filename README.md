@@ -12,14 +12,14 @@ This is an E-commerce application that allows users to browse products, add them
 
 ## Technologies Used
 - **Frontend**: React, Redux, Material-UI, Axios
-- **Backend**: Node.js, Express, MongoDB
+- **Backend**: SpringBoot, Express, MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **Styling**: Tailwind CSS
 
 ## Installation
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- SpringBoot
 - MongoDB (for local development)
 
 ### Clone the Repository
